@@ -1,0 +1,52 @@
+﻿* Implemente uma classe Proprietário (OK)
+
+* Declare os seguintes atributos na classe: (OK)
+- Nome
+- CPF
+- RG
+- Data de Nascimento
+- Rua
+- Bairro
+- Cidade
+- Estado 
+- Cep
+- Complemento
+
+* Faça o encapsulamento dos atributos da classe Proprietário (OK)
+* Os atributos nome, cpf e rg são obrigatórios (crie um construtor com esses parâmetros) (OK) 
+
+* Implemente uma classe Carro (OK)
+* Declare os seguintes atributos na classe: (OK)
+- Modelo
+- Cor
+- Ano
+- Marca
+- Chassi
+- Proprietário
+- Velocidade máxima
+- Velocidade atual
+- Nr de portas
+- tem teto solar?
+- Nr Marchas
+- tem cambio automatico?
+- Volume de combustível
+
+* Faça o encapsulamento da classe Carro e seus atributos (OK) 
+* Implemente o método acelera que aumenta a velocidade de 1 em 1 km/h (OK) 
+* Implemente o método freia que para o carro – Velocidade = 0 km/h (OK) 
+
+* Implemete o método troca marcha (OK) 
+* Implemente o método reduz a marcha; (OK) 
+
+* Altere a classe Proprietário para que o atributo Endereço vire uma classe; (OK)
+* Encapsule os atributos da classe Endereço; (OK)
+
+* O endereço do proprietário não pode ser vazio (altere no construtor para receber o endereço); (OK)
+
+* Todo veículo tem um proprietário obrigatoriamente (implemente um construtor de veículo passando o proprietário como parâmetro); (OK)
+
+* A marcha ré nao pode ser engatada se o a velocidade for superior a 0 KM/h; (OK)
+
+* Transforme o atributo Marca de um carro em uma classe Marca com nome, nrDeModelos, ano de lançamento e código identificador (OK)
+
+
